@@ -1,13 +1,13 @@
 {
     "schema":  1,
-    "version":  "2026.11.05.9",
+    "version":  "2026.11.05.10",
     "channel":  "stable",
-    "generated_at":  "2026-11-05T12:25:35.2875910Z",
-    "notes":  "Fixes numeric input apply, updater external download headers, and cumulative patch selection.",
+    "generated_at":  "2026-11-05T12:52:23.0924088Z",
+    "notes":  "Fix updater manifest parsing, system downloader revocation fallback, numeric patch selection, and trainer apply button.",
     "patch":  {
-                  "name":  "LaoYePai_patch_2026.11.05.9.pck",
-                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.05.9/LaoYePai_patch_2026.11.05.9.pck",
-                  "size":  388228,
-                  "sha256":  "c32d3580641e3c6bc64ec08be6493a2c2895a8894e291c71fecc484ba4c92e00"
+                  "name":  "LaoYePai_patch_2026.11.05.10.pck",
+                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.05.10/LaoYePai_patch_2026.11.05.10.pck",
+                  "size":  388740,
+                  "sha256":  "3d0f75228ea46091498a031e9398da452672ba36fe512bb88f71e6ab576951d9"
               }
 }
