@@ -1,13 +1,13 @@
 {
     "schema":  1,
-    "version":  "2026.11.05.3",
+    "version":  "2026.11.05.4",
     "channel":  "stable",
-    "generated_at":  "2026-11-05T06:34:29.8907767Z",
-    "notes":  "新增局域网联机：自动本机 LAN 地址、UDP 房间扫描、手动地址兜底，并保留 Tailscale 远程联机。",
+    "generated_at":  "2026-11-05T06:52:46.7471337Z",
+    "notes":  "更新版本说明与开局声明：对齐局域网、远程联机、内置修改器和增量更新状态。",
     "patch":  {
-                  "name":  "LaoYePai_patch_2026.11.05.3.pck",
-                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.05.3/LaoYePai_patch_2026.11.05.3.pck",
-                  "size":  31556,
-                  "sha256":  "7170dfa787f3664af4dfcf4d39b48d40f162e152f2013eb1ab9df8a7a107b3bd"
+                  "name":  "LaoYePai_patch_2026.11.05.4.pck",
+                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.05.4/LaoYePai_patch_2026.11.05.4.pck",
+                  "size":  8612,
+                  "sha256":  "f2b9731db1b4409c49938bc45a2f5cbbdc2199e793f266b059b86c12f921cbf8"
               }
 }
