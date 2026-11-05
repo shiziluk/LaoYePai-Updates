@@ -1,13 +1,13 @@
 {
     "schema":  1,
-    "version":  "2026.11.05.4",
+    "version":  "2026.11.05.5",
     "channel":  "stable",
-    "generated_at":  "2026-11-05T06:52:46.7471337Z",
-    "notes":  "更新版本说明与开局声明：对齐局域网、远程联机、内置修改器和增量更新状态。",
+    "generated_at":  "2026-11-05T07:06:22.6245704Z",
+    "notes":  "累计更新：包含局域网联机、房间扫描、版本说明与开局声明，可从基础 2026.11.05.1 直接升级。",
     "patch":  {
-                  "name":  "LaoYePai_patch_2026.11.05.4.pck",
-                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.05.4/LaoYePai_patch_2026.11.05.4.pck",
-                  "size":  8612,
-                  "sha256":  "f2b9731db1b4409c49938bc45a2f5cbbdc2199e793f266b059b86c12f921cbf8"
+                  "name":  "LaoYePai_patch_2026.11.05.5.pck",
+                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.05.5/LaoYePai_patch_2026.11.05.5.pck",
+                  "size":  39684,
+                  "sha256":  "1be30624eb47aeb4eec51ff9b0d6f98ba00ac08465ec38edf265a0783367be5b"
               }
 }
