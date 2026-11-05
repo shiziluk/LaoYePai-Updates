@@ -1,13 +1,13 @@
 {
     "schema":  1,
-    "version":  "2026.11.05.5",
+    "version":  "2026.11.05.6",
     "channel":  "stable",
-    "generated_at":  "2026-11-05T07:06:22.6245704Z",
-    "notes":  "累计更新：包含局域网联机、房间扫描、版本说明与开局声明，可从基础 2026.11.05.1 直接升级。",
+    "generated_at":  "2026-11-05T10:31:28.8352935Z",
+    "notes":  "更新器增加 GitHub 不可达回退：jsDelivr 清单镜像与 gh-proxy Release 补丁代理；累计包含局域网和版本说明功能。",
     "patch":  {
-                  "name":  "LaoYePai_patch_2026.11.05.5.pck",
-                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.05.5/LaoYePai_patch_2026.11.05.5.pck",
-                  "size":  39684,
-                  "sha256":  "1be30624eb47aeb4eec51ff9b0d6f98ba00ac08465ec38edf265a0783367be5b"
+                  "name":  "LaoYePai_patch_2026.11.05.6.pck",
+                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.05.6/LaoYePai_patch_2026.11.05.6.pck",
+                  "size":  48292,
+                  "sha256":  "6601d169ef72764d73c79bc80e8981de32f3a61a63cd6c3bddeadaac6bb16f49"
               }
 }
