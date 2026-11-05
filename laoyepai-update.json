@@ -1,13 +1,13 @@
 {
     "schema":  1,
-    "version":  "2026.11.05.12",
+    "version":  "2026.11.05.13",
     "channel":  "stable",
-    "generated_at":  "2026-11-05T14:36:40.3800460Z",
-    "notes":  "Harden co-op sequencing and client intent validation while preserving local single-player defaults.",
+    "generated_at":  "2026-11-05T14:41:34.2367796Z",
+    "notes":  "Add remote HP, skill visual sync, and host-authoritative player damage.",
     "patch":  {
-                  "name":  "LaoYePai_patch_2026.11.05.12.pck",
-                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.05.12/LaoYePai_patch_2026.11.05.12.pck",
-                  "size":  615908,
-                  "sha256":  "13ad7c8cc6fa2afefdf888ff819b643bf115e6f6ba725c1b85073fd6e17fdd75"
+                  "name":  "LaoYePai_patch_2026.11.05.13.pck",
+                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.05.13/LaoYePai_patch_2026.11.05.13.pck",
+                  "size":  808196,
+                  "sha256":  "6ed225f660574ddd488ef035489f699ef0e8bc23abfbf055d726fc3dcfdbdce6"
               }
 }
