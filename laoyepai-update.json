@@ -1,13 +1,13 @@
 {
     "schema":  1,
-    "version":  "2026.11.06.4",
+    "version":  "2026.11.06.5",
     "channel":  "stable",
-    "generated_at":  "2026-11-05T17:12:42.2749087Z",
-    "notes":  "Cross-player trading, remote pet sync, downed/revive, two-player enemy targeting, and idempotency fixes.",
+    "generated_at":  "2026-11-05T17:25:46.0007659Z",
+    "notes":  "Cumulative co-op update: cross-player trading, remote pet sync, downed/revive, two-player enemy targeting, and idempotency fixes.",
     "patch":  {
-                  "name":  "LaoYePai_patch_2026.11.06.4.pck",
-                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.06.4/LaoYePai_patch_2026.11.06.4.pck",
-                  "size":  235908,
-                  "sha256":  "f3feb3116c1bf3b7c9b1e9a3e067d4c43f43ca54d2007303eeef316c28eb8071"
+                  "name":  "LaoYePai_patch_2026.11.06.5.pck",
+                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.06.5/LaoYePai_patch_2026.11.06.5.pck",
+                  "size":  979236,
+                  "sha256":  "5244ee19adf6ed8636d98b2c183daead7f3beae41c25e548f78d4fe50b91fa29"
               }
 }
