@@ -1,13 +1,13 @@
 {
     "schema":  1,
-    "version":  "2026.11.05.14",
+    "version":  "2026.11.06.4",
     "channel":  "stable",
-    "generated_at":  "2026-11-05T14:44:24.8876539Z",
-    "notes":  "Select the highest valid manifest across mirrors; preserve local-only EXP and co-op updates.",
+    "generated_at":  "2026-11-05T17:12:42.2749087Z",
+    "notes":  "Cross-player trading, remote pet sync, downed/revive, two-player enemy targeting, and idempotency fixes.",
     "patch":  {
-                  "name":  "LaoYePai_patch_2026.11.05.14.pck",
-                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.05.14/LaoYePai_patch_2026.11.05.14.pck",
-                  "size":  808356,
-                  "sha256":  "002f33a6d5f75056f61764c8f512255fbcf72cbe3883ad3acb5f8801cb99eb04"
+                  "name":  "LaoYePai_patch_2026.11.06.4.pck",
+                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.06.4/LaoYePai_patch_2026.11.06.4.pck",
+                  "size":  235908,
+                  "sha256":  "f3feb3116c1bf3b7c9b1e9a3e067d4c43f43ca54d2007303eeef316c28eb8071"
               }
 }
