@@ -1,0 +1,13 @@
+{
+    "schema":  1,
+    "version":  "2026.11.05.2",
+    "channel":  "stable",
+    "generated_at":  "2026-11-05T03:51:02.1937004Z",
+    "notes":  "",
+    "patch":  {
+                  "name":  "LaoYePai_patch_2026.11.05.2.pck",
+                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.05.2/LaoYePai_patch_2026.11.05.2.pck",
+                  "size":  452,
+                  "sha256":  "bd349e90e7ac224b6d17eb1ede5f8b81629da56610574486bb639f6cad13a7af"
+              }
+}
