@@ -1,13 +1,13 @@
 {
     "schema":  1,
-    "version":  "2026.11.05.13",
+    "version":  "2026.11.05.14",
     "channel":  "stable",
-    "generated_at":  "2026-11-05T14:41:34.2367796Z",
-    "notes":  "Add remote HP, skill visual sync, and host-authoritative player damage.",
+    "generated_at":  "2026-11-05T14:44:24.8876539Z",
+    "notes":  "Select the highest valid manifest across mirrors; preserve local-only EXP and co-op updates.",
     "patch":  {
-                  "name":  "LaoYePai_patch_2026.11.05.13.pck",
-                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.05.13/LaoYePai_patch_2026.11.05.13.pck",
-                  "size":  808196,
-                  "sha256":  "6ed225f660574ddd488ef035489f699ef0e8bc23abfbf055d726fc3dcfdbdce6"
+                  "name":  "LaoYePai_patch_2026.11.05.14.pck",
+                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.05.14/LaoYePai_patch_2026.11.05.14.pck",
+                  "size":  808356,
+                  "sha256":  "002f33a6d5f75056f61764c8f512255fbcf72cbe3883ad3acb5f8801cb99eb04"
               }
 }
