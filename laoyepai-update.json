@@ -1,13 +1,13 @@
 {
     "schema":  1,
-    "version":  "2026.11.05.8",
+    "version":  "2026.11.05.9",
     "channel":  "stable",
-    "generated_at":  "2026-11-05T11:26:40.7195075Z",
-    "notes":  "累计更新：修复 Godot HTTPS 根证书，增加 jsDelivr/GitHub Contents API/gh-proxy 回退，并包含局域网和版本说明功能。",
+    "generated_at":  "2026-11-05T12:25:35.2875910Z",
+    "notes":  "Fixes numeric input apply, updater external download headers, and cumulative patch selection.",
     "patch":  {
-                  "name":  "LaoYePai_patch_2026.11.05.8.pck",
-                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.05.8/LaoYePai_patch_2026.11.05.8.pck",
-                  "size":  340836,
-                  "sha256":  "51fe2e87c6b9396d302bd221a82d8b12e6d8107b60e25d2129a6a9d7b7b2cf02"
+                  "name":  "LaoYePai_patch_2026.11.05.9.pck",
+                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.05.9/LaoYePai_patch_2026.11.05.9.pck",
+                  "size":  388228,
+                  "sha256":  "c32d3580641e3c6bc64ec08be6493a2c2895a8894e291c71fecc484ba4c92e00"
               }
 }
