@@ -1,13 +1,13 @@
 {
     "schema":  1,
-    "version":  "2026.11.05.11",
+    "version":  "2026.11.05.12",
     "channel":  "stable",
-    "generated_at":  "2026-11-05T14:03:05.0463614Z",
-    "notes":  "Add player and shenshou EXP multipliers; fix trainer numeric apply; keep local-only multiplayer behavior.",
+    "generated_at":  "2026-11-05T14:36:40.3800460Z",
+    "notes":  "Harden co-op sequencing and client intent validation while preserving local single-player defaults.",
     "patch":  {
-                  "name":  "LaoYePai_patch_2026.11.05.11.pck",
-                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.05.11/LaoYePai_patch_2026.11.05.11.pck",
-                  "size":  580548,
-                  "sha256":  "285a2a82f0ff2b46f79190a61d14f05757c944d03790b8bd6cb2bbccab871937"
+                  "name":  "LaoYePai_patch_2026.11.05.12.pck",
+                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.05.12/LaoYePai_patch_2026.11.05.12.pck",
+                  "size":  615908,
+                  "sha256":  "13ad7c8cc6fa2afefdf888ff819b643bf115e6f6ba725c1b85073fd6e17fdd75"
               }
 }
