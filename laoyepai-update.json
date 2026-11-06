@@ -6,14 +6,14 @@
     "notes":  "拆分沙箱规则与存档目标；F8 修改默认写入正常存档，隔离沙箱存档需单独开启；修复倍率滑块页面重建崩溃；世界地图显示联机玩家 Q 版头像。",
     "patch":  {
                   "name":  "LaoYePai_patch_2026.11.07.11.pck",
-                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.07.11/LaoYePai_patch_2026.11.07.11.pck",
+                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v20261107-11/LaoYePai_patch_2026.11.07.11.pck",
                   "size":  14824036,
                   "sha256":  "c35817fab914245c2c8e3f979d50a4d69f3e43007b7165be662dbb77bbbe6cf4"
               },
     "sidecars":  [
                      {
                          "name":  "laoyepai_spake2_2026.11.07.11.windows.x86_64.dll",
-                         "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.07.11/laoyepai_spake2_2026.11.07.11.windows.x86_64.dll",
+                         "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v20261107-11/laoyepai_spake2_2026.11.07.11.windows.x86_64.dll",
                          "size":  3870208,
                          "sha256":  "d671efcbfa2399ec2d1db66c9e014d10d52b90f7d485fffd23c3cd8dd23cc0cd",
                          "target":  "laoyepai_spake2_2026.11.07.11.windows.x86_64.dll"
