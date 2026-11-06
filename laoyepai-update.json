@@ -1,22 +1,22 @@
 {
     "schema":  1,
-    "version":  "2026.11.06.39",
+    "version":  "2026.11.06.40",
     "channel":  "stable",
-    "generated_at":  "2026-11-06T15:25:16.9430324Z",
+    "generated_at":  "2026-11-06T15:28:13.3689270Z",
     "notes":  "F8 新增 1.0.9 内容自由开关；恢复并显示经验倍率；修复欢迎页/版本信息、联机机关与陷阱出伤、Boss 霸体、灵兽状态、伏魔塔、古墓兑换和前景遮挡。",
     "patch":  {
-                  "name":  "LaoYePai_patch_2026.11.06.39.pck",
-                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.06.39/LaoYePai_patch_2026.11.06.39.pck",
+                  "name":  "LaoYePai_patch_2026.11.06.40.pck",
+                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.06.40/LaoYePai_patch_2026.11.06.40.pck",
                   "size":  14743748,
-                  "sha256":  "be1f70b5c617c71617708ff1084395c52cf5ab80fbaab93f7f5fdfa7758c3d9b"
+                  "sha256":  "71f9683c751b55005252d8f866b7003f2b10893e495b7130ba26908a5c5e0a09"
               },
     "sidecars":  [
                      {
-                         "name":  "laoyepai_spake2_2026.11.06.39.windows.x86_64.dll",
-                         "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.06.39/laoyepai_spake2_2026.11.06.39.windows.x86_64.dll",
+                         "name":  "laoyepai_spake2_2026.11.06.40.windows.x86_64.dll",
+                         "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.06.40/laoyepai_spake2_2026.11.06.40.windows.x86_64.dll",
                          "size":  3870208,
                          "sha256":  "d671efcbfa2399ec2d1db66c9e014d10d52b90f7d485fffd23c3cd8dd23cc0cd",
-                         "target":  "laoyepai_spake2_2026.11.06.39.windows.x86_64.dll"
+                         "target":  "laoyepai_spake2_2026.11.06.40.windows.x86_64.dll"
                      }
                  ]
 }
