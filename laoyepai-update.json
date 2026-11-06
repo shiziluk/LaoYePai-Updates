@@ -1,22 +1,22 @@
 {
     "schema":  1,
-    "version":  "2026.11.06.40",
-    "channel":  "stable",
-    "generated_at":  "2026-11-06T15:28:13.3689270Z",
-    "notes":  "F8 新增 1.0.9 内容自由开关；恢复并显示经验倍率；修复欢迎页/版本信息、联机机关与陷阱出伤、Boss 霸体、灵兽状态、伏魔塔、古墓兑换和前景遮挡。",
+    "version":  "2026.11.07.7",
+    "channel":  "preview",
+    "generated_at":  "2026-11-06T18:32:15.5539043Z",
+    "notes":  "Fix scrollbar drag dismissal and free level adjustment",
     "patch":  {
-                  "name":  "LaoYePai_patch_2026.11.06.40.pck",
-                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.06.40/LaoYePai_patch_2026.11.06.40.pck",
-                  "size":  14743748,
-                  "sha256":  "71f9683c751b55005252d8f866b7003f2b10893e495b7130ba26908a5c5e0a09"
+                  "name":  "LaoYePai_patch_2026.11.07.7.pck",
+                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.07.7/LaoYePai_patch_2026.11.07.7.pck",
+                  "size":  14813476,
+                  "sha256":  "9f053ecbdb0757a480078a3b7881fe053a9d6549fe7f3ee363143e6f9b17f205"
               },
     "sidecars":  [
                      {
-                         "name":  "laoyepai_spake2_2026.11.06.40.windows.x86_64.dll",
-                         "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.06.40/laoyepai_spake2_2026.11.06.40.windows.x86_64.dll",
+                         "name":  "laoyepai_spake2_2026.11.07.7.windows.x86_64.dll",
+                         "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.07.7/laoyepai_spake2_2026.11.07.7.windows.x86_64.dll",
                          "size":  3870208,
                          "sha256":  "d671efcbfa2399ec2d1db66c9e014d10d52b90f7d485fffd23c3cd8dd23cc0cd",
-                         "target":  "laoyepai_spake2_2026.11.06.40.windows.x86_64.dll"
+                         "target":  "laoyepai_spake2_2026.11.07.7.windows.x86_64.dll"
                      }
                  ]
 }
