@@ -1,22 +1,22 @@
 {
     "schema":  1,
-    "version":  "2026.11.07.16",
+    "version":  "2026.11.07.17",
     "channel":  "preview",
-    "generated_at":  "2026-11-07T17:39:03.6540587Z",
-    "notes":  "修复联机日志 helper、客机怪物对账、掉落补发与装备增量同步",
+    "generated_at":  "2026-11-07T18:13:58.6980820Z",
+    "notes":  "灵兽群体增益、宠物伤害归属、coop_pet 日志与木人巷经验修复",
     "patch":  {
-                  "name":  "LaoYePai_patch_2026.11.07.16.pck",
-                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.07.016/LaoYePai_patch_2026.11.07.16.pck",
-                  "size":  4343460,
-                  "sha256":  "64b4ba1b63d90ca91b03c999e9b17e25fedec8ebc361fb3ce8770fb124733e4f"
+                  "name":  "LaoYePai_patch_2026.11.07.17.pck",
+                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.07.017/LaoYePai_patch_2026.11.07.17.pck",
+                  "size":  4440132,
+                  "sha256":  "15f39596c596c2e6865f89348fdf49c2fc3cfd1a345bd3f30fd411ddc9fdfc21"
               },
     "sidecars":  [
                      {
-                         "name":  "laoyepai_spake2_2026.11.07.16.windows.x86_64.dll",
-                         "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.07.016/laoyepai_spake2_2026.11.07.16.windows.x86_64.dll",
+                         "name":  "laoyepai_spake2_2026.11.07.17.windows.x86_64.dll",
+                         "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.07.017/laoyepai_spake2_2026.11.07.17.windows.x86_64.dll",
                          "size":  3870208,
                          "sha256":  "d671efcbfa2399ec2d1db66c9e014d10d52b90f7d485fffd23c3cd8dd23cc0cd",
-                         "target":  "laoyepai_spake2_2026.11.07.16.windows.x86_64.dll"
+                         "target":  "laoyepai_spake2_2026.11.07.17.windows.x86_64.dll"
                      }
                  ]
 }
