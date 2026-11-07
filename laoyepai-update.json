@@ -1,22 +1,22 @@
 {
     "schema":  1,
-    "version":  "2026.11.07.13",
+    "version":  "2026.11.07.14",
     "channel":  "preview",
-    "generated_at":  "2026-11-07T13:49:56.1838349Z",
-    "notes":  "修复 .12 的四人大厅/存档回归；联机允许双方独立使用本地修改器，个人数值按本机，共享掉落按房主。",
+    "generated_at":  "2026-11-07T15:34:04.3973262Z",
+    "notes":  "修复远端队友等级/装备显示、跨房间敌人签名、出生位置锚定和共享掉落对齐。",
     "patch":  {
-                  "name":  "LaoYePai_patch_2026.11.07.13.pck",
-                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.07.013/LaoYePai_patch_2026.11.07.13.pck",
-                  "size":  14823492,
-                  "sha256":  "ec7123924afc671da477ffe1b1f82de5d036b762b961135b8855a5e063a11146"
+                  "name":  "LaoYePai_patch_2026.11.07.14.pck",
+                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.07.014/LaoYePai_patch_2026.11.07.14.pck",
+                  "size":  14827588,
+                  "sha256":  "8903784856973b94b5b7d9238a0f8d44b0d90f0ef99180efe8c7dfc6d6dfbcdf"
               },
     "sidecars":  [
                      {
-                         "name":  "laoyepai_spake2_2026.11.07.13.windows.x86_64.dll",
-                         "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.07.013/laoyepai_spake2_2026.11.07.13.windows.x86_64.dll",
+                         "name":  "laoyepai_spake2_2026.11.07.14.windows.x86_64.dll",
+                         "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.07.014/laoyepai_spake2_2026.11.07.14.windows.x86_64.dll",
                          "size":  3870208,
                          "sha256":  "d671efcbfa2399ec2d1db66c9e014d10d52b90f7d485fffd23c3cd8dd23cc0cd",
-                         "target":  "laoyepai_spake2_2026.11.07.13.windows.x86_64.dll"
+                         "target":  "laoyepai_spake2_2026.11.07.14.windows.x86_64.dll"
                      }
                  ]
 }
