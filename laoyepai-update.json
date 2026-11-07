@@ -1,22 +1,22 @@
 {
     "schema":  1,
-    "version":  "2026.11.07.12",
+    "version":  "2026.11.07.13",
     "channel":  "preview",
-    "generated_at":  "2026-11-07T08:13:07.5809715Z",
-    "notes":  "Cumulative preview over 2026.11.07.11: independent co-op trainer settings; personal values are local, shared drops follow the host.",
+    "generated_at":  "2026-11-07T13:49:56.1838349Z",
+    "notes":  "修复 .12 的四人大厅/存档回归；联机允许双方独立使用本地修改器，个人数值按本机，共享掉落按房主。",
     "patch":  {
-                  "name":  "LaoYePai_patch_2026.11.07.12.pck",
-                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.07.12/LaoYePai_patch_2026.11.07.12.pck",
-                  "size":  14646852,
-                  "sha256":  "912e36469bf9b86764a7d29ae9b918860056b354c7012f9a6a2ccc755ebe7c08"
+                  "name":  "LaoYePai_patch_2026.11.07.13.pck",
+                  "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.07.013/LaoYePai_patch_2026.11.07.13.pck",
+                  "size":  14823492,
+                  "sha256":  "ec7123924afc671da477ffe1b1f82de5d036b762b961135b8855a5e063a11146"
               },
     "sidecars":  [
                      {
-                         "name":  "laoyepai_spake2_2026.11.07.11.windows.x86_64.dll",
-                         "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.07.12/laoyepai_spake2_2026.11.07.11.windows.x86_64.dll",
+                         "name":  "laoyepai_spake2_2026.11.07.13.windows.x86_64.dll",
+                         "url":  "https://github.com/shiziluk/LaoYePai-Updates/releases/download/v2026.11.07.013/laoyepai_spake2_2026.11.07.13.windows.x86_64.dll",
                          "size":  3870208,
                          "sha256":  "d671efcbfa2399ec2d1db66c9e014d10d52b90f7d485fffd23c3cd8dd23cc0cd",
-                         "target":  "laoyepai_spake2_2026.11.07.11.windows.x86_64.dll"
+                         "target":  "laoyepai_spake2_2026.11.07.13.windows.x86_64.dll"
                      }
                  ]
 }
